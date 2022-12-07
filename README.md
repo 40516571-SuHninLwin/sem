@@ -3,3 +3,7 @@ This is my first demo.
 
 [![LICENSE](https://img.shields.io/github/license/40516571-SuHninLwin/sem.svg?style=flat-square)](https://github.com/40516571-SuHninLwin/sem/blob/master/LICENSE)
 
+[![Releases](https://img.shields.io/github/release/40516571-SuHninLwin/sem/all.svg?style=flat-square)](https://github.com/40516571-SuHninLwin/sem/releases)
+
+
+
