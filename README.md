@@ -7,5 +7,5 @@ This is my first demo.
 [![Releases](https://img.shields.io/github/release/40516571-SuHninLwin/sem/all.svg?style=flat-square)](https://github.com/40516571-SuHninLwin/sem/releases)
 
 # Software Engineering Methods
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/<username>/<repository>/<action name taken from main.yml>/<branch>?style=flat-square)
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/40516571-SuHninLwin/sem/<action name taken from main.yml>/<branch>?style=flat-square)
 
