@@ -9,4 +9,3 @@ This is my first demo.
 # Software Engineering Methods
 ![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/40516571-SuHninLwin/sem/sem/.github/workflows/main.yml/main?style=flat-square)
 
-![example event parameter](https://github.com/github/40516571-SuHninLwin/actions/.githun/workflows/main.yml/badge.svg?event=push)
